@@ -1,0 +1,29 @@
+* { margin: 0; padding: 0; }
+html { height: 101%; }
+body { background: #f2f2f2 ; font-size: 62.5%; padding-bottom: 65px; }
+
+h1 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color: #a65959; font-size: 2.6em; margin-bottom: 6px; }
+h2 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; color:#a65959; font-size: 2.5em; margin-bottom: 10px;}
+h3 { font-family: "Trebuchet MS", Verdana, Arial, sans-serif; color: #777; font-weight: normal; font-size: 1.8em; margin-bottom: 10px; }
+h4 { font-family: "Trebuchet MS", Verdana, Arial, sans-serif; color: #656565; font-weight: bold; font-size: 1.75em; margin-bottom: 4px; }
+
+p { font-family: "Balthazar", "Droid Serif", serif; color: #565656; font-size: 1.8em; line-height: 1.4em; margin-bottom: 15px; padding-left: 35px; }
+
+ul li { padding-left: 45px; list-style-type: none; vertical-align: top;margin-bottom: 5px; font-family: "Balthazar", "Droid Serif", serif; color: #666; font-size: 1.6em; line-height: 2.3em; }
+
+img { border: 0; max-width: 100%;}
+
+#w { margin: 0px 50px; padding: 20px 40px; padding-top: 35px; background: #FAEBD7;}
+
+header { width: 100%;background:#FFFACD }
+#info { float: right; margin-bottom: 12px; }
+#photo { float: left; }
+#photo img { 
+background-color: #a65959;
+border: 1px solid #ccc;
+padding: 5px; 
+}
+#skills-left { display: block; float: left; margin-right: 30px; }
+.b:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
+.b { display: inline-block; }
+ 
